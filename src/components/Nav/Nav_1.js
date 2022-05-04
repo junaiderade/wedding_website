@@ -15,7 +15,7 @@ class Nav_1 extends Component{
             <div>
                 <Navbar bg="light" expand="lg">
                 <Container >
-                    <Navbar.Brand id= 'nav-style' href="#home">We're Getting Married</Navbar.Brand>
+                    <Navbar.Brand id= 'nav-style' href="#home">We're Getting Married June 19</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
